@@ -1,5 +1,5 @@
-#### pdf_viewer that utilizes tkinter for gui anf pypdf2 for pdf reading
+#### pdf_viewer is an application that uses Python and Tkinter to display PDF files
 #### converts pdf into text file and presents it in gui window 
-#### currently in progress
+#### still making changes
 
 
