@@ -18,7 +18,7 @@ def pdf_viewer(text):
     window.mainloop()
 
 
-a= PyPDF2.PdfReader('fileisro.pdf')
+a= PyPDF2.PdfReader('c.pdf')
 
 string=""
 for i in range(0,len(a.pages)):
